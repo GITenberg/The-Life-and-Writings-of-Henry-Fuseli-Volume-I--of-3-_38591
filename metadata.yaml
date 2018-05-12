@@ -1,0 +1,41 @@
+_repo: The-Life-and-Writings-of-Henry-Fuseli-Volume-I--of-3-_38591
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fuseli, Henry
+    aliases:
+    - Füessli, Henry
+    - Fusely, Henry
+    - Füssli, Johann Heinrich
+    - Fuessli, Henry
+    - Fussli, Johann Heinrich
+    birthdate: 1741
+    deathdate: 1825
+    gutenberg_agent_id: '40282'
+    url: http://www.gutenberg.org/2009/agents/40282
+  editor:
+    agent_name: Knowles, John
+    birthdate: 1781
+    deathdate: 1841
+    gutenberg_agent_id: '39558'
+    url: http://www.gutenberg.org/2009/agents/39558
+description: ''
+gutenberg_issued: '2012-01-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Art -- Italy -- History'
+- !lcsh 'Fuseli, Henry, 1741-1825'
+- !lcsh 'Art'
+- !lcsh 'Painters -- Switzerland -- Biography'
+title: The Life and Writings of Henry Fuseli, Volume 1 (of 3)
+url: http://www.gutenberg.org/ebooks/38591
